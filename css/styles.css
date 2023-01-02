@@ -175,3 +175,15 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+/* Buttons */
+
+.btn {
+    font-size: 1.8rem;
+    width: 20rem;
+    height: 5rem;
+}
+
+.btn--primary {
+
+}
